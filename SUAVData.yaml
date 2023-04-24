@@ -1,6 +1,6 @@
 
-train: '\kaggle\input\suav-dataset\FinalData\train\images'
-val: ' \kaggle\input\suav-dataset\FinalData\valid\images'
+train: 'kaggle/input/suav-dataset/FinalData/train/images/'
+val: ' kaggle/input/suav-dataset/FinalData/valid/images/'
  
 # class names
 names: 
