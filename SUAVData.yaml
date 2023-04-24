@@ -1,0 +1,7 @@
+
+train: 'D:\Ana\Projeler\SUAV\Image Preprocessing\datasets\FinalData\train\images'
+val: 'D:\Ana\Projeler\SUAV\Image Preprocessing\datasets\FinalData\valid\images'
+ 
+# class names
+names: 
+  0: 'UAV' 
