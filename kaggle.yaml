@@ -1,7 +1,0 @@
-
-train: '/kaggle/input/suav-data/FinalData/train\images'
-val: ' /kaggle/input/suav-data/FinalData/valid/images'
- 
-# class names
-names: 
-  0: 'UAV' 
